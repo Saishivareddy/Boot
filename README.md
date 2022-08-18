@@ -22,7 +22,7 @@ sudo apt-get install minicom
 MkImage :
 
 ```bash
-sudo apt-get install uboot-mkimage
+sudo apt-get install uboot-tools
 ```
 
 
